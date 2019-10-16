@@ -4,6 +4,8 @@ An overlay using the browser source function of Open Broadcaster Software.
 
 This is a modified version of [haganbmj/vue-stream-overlay](https://github.com/haganbmj/vue-stream-overlay) .
 
+![example](.github/movie.gif)
+
 ## Warning
 
 This tool does not take any security measures. Therefore, **Please do not expose to the Internet.**
@@ -28,4 +30,4 @@ This tool does not take any security measures. Therefore, **Please do not expose
 
 ### Is it OK to use a PHP built-in server?
 
-I got it.
+Exactly.
