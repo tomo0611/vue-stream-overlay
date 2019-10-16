@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brendan Hagan (haganbmj)",
-  "license": "ISC",
+  "author": "MATTENN",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.16.1",
     "vue": "^2.3.3",
