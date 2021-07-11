@@ -2,6 +2,7 @@
 node_modules
 dist
 bower_components
+package-lock.json
 
 # IntelliJ
 .idea/
