@@ -1,21 +1,17 @@
 {
-  "name": "vue-stream-overlay",
+  "name": "stream-overlay",
   "version": "1.0.0",
-  "description": "Stream Overlays with VueJS",
-  "main": "index.js",
+  "description": "Stream Overlays for OBS with TypeScript",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "MATTENN",
   "license": "MIT",
-  "dependencies": {
-    "axios": "^0.16.1",
-    "vue": "^2.3.3",
-    "vue2-animate": "^1.0.4"
-  },
-  "eslintConfig": {
-    "parserOptions": {
-      "ecmaVersion": 6
-    }
+  "devDependencies": {
+    "@types/node": "^15.14.2",
+    "ts-node": "^10.1.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.3.5"
   }
 }
